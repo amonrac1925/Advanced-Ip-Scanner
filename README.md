@@ -212,4 +212,4 @@ Advanced IP Scanner is offered as a full free version with all features and upda
 Take control of your local network today! Download Advanced IP Scanner for free and experience all its powerful features.
 
 ---
-**Last updated:** 2026-10-21 12:34:38 UTC
+**Last updated:** 2026-10-21 17:46:41 UTC
